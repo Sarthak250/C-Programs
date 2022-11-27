@@ -1,0 +1,7 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "ARR.C": "cpp",
+        "CHECK.C": "cpp"
+    }
+}
